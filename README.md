@@ -1,4 +1,4 @@
-# Leads-Tracker Chrome Extension
+Leads Tracker Chrome Extension
 A simple Chrome extension designed to help sales executives and anyone who needs to keep track of important websites or tabs. This extension allows users to save URLs, which are stored locally and can be accessed at any time.
 
 Features
