@@ -1,8 +1,8 @@
-Leads Tracker Chrome Extension
+#Leads Tracker Chrome Extension
 A simple Chrome extension designed to help sales executives and anyone who needs to keep track of important websites or tabs. This extension allows users to save URLs, which are stored locally and can be accessed at any time.
 
-Features
-Save the current tab's URL with a single click.
+#Features
+-Save the current tab's URL with a single click.
 Add URLs manually using the input field.
 View saved URLs in a list.
 Open any saved URL in a new tab.
