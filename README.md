@@ -14,6 +14,10 @@ bash
 Copy code
 
 (``` git clone https://github.com/Yaser-123/url-saver-extension.git ```)
+
+1. **Clone this repository** to your local machine:
+   ```bash
+   git clone https://github.com/Yaser-123/url-saver-extension.git
 Open Chrome and navigate to chrome://extensions/.
 
 Enable Developer mode by toggling the switch in the top right corner.
